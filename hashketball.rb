@@ -261,7 +261,8 @@ def most_points_scored
   player_with_most_of(:points)
 end
 
-
+def winning_team
+  
   
 
   
